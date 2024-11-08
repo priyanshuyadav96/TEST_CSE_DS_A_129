@@ -1,0 +1,51 @@
+#cont{
+    height: 50vh;
+    width: 60vw;
+    margin: auto;
+    margin-top: 20vh;
+    align-items: center;
+    border-radius:5px ;
+    background-color: white;
+    padding: 25px;
+}
+body{
+    background-color: rgb(227, 225, 225);
+    font-family: sans-serif;
+    text-align: center;
+}
+#uname,#pass{
+    margin: 25px;
+    width: 80%;
+    height: 30px;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+#login{
+    background-color: green;
+    color: white;
+    margin-left: 25px ;
+    height: 40px;
+    width: 60px;
+    border-radius:5px ;
+}
+#hd1{
+    background-color: wheat;
+    width: 200px;
+    margin: auto;
+}
+#fetch{
+    background-color: green;
+    color: white;
+    border: none;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#logout{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+}
